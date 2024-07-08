@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bi2qq7w0we7j0"
+path="res://.godot/imported/ambience_eerie.wav-c67a487e0c22510eafae8f379983cdb6.sample"
+
+[deps]
+
+source_file="res://sounds/ambience/ambience_eerie.wav"
+dest_files=PackedStringArray("res://.godot/imported/ambience_eerie.wav-c67a487e0c22510eafae8f379983cdb6.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

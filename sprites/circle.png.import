@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dm6gd5iggigeq"
+path="res://.godot/imported/circle.png-44b524053929f94dd1566f087585a590.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/circle.png"
+dest_files=PackedStringArray("res://.godot/imported/circle.png-44b524053929f94dd1566f087585a590.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

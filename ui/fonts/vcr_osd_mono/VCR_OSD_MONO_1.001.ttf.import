@@ -1,0 +1,15 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://c458otts8ji68"
+path="res://.godot/imported/VCR_OSD_MONO_1.001.ttf-8b1dde47e9d669a25f953ce03e8309b8.fontdata"
+
+[deps]
+
+source_file="res://ui/fonts/vcr_osd_mono/VCR_OSD_MONO_1.001.ttf"
+dest_files=PackedStringArray("res://.godot/imported/VCR_OSD_MONO_1.001.ttf-8b1dde47e9d669a25f953ce03e8309b8.fontdata")
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cbvf2blkod7d8"
+path="res://.godot/imported/6.png-aa5798edd93c10f092a495329d27decf.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/static/6.png"
+dest_files=PackedStringArray("res://.godot/imported/6.png-aa5798edd93c10f092a495329d27decf.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bg43yix30oy1r"
+path="res://.godot/imported/bonnie.png-64847b76cff86551f3d9c33fcade3f87.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/characters/animatronics/bonnie.png"
+dest_files=PackedStringArray("res://.godot/imported/bonnie.png-64847b76cff86551f3d9c33fcade3f87.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

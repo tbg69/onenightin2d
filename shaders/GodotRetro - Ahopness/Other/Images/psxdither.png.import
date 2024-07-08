@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cmohmy3jixsru"
+path="res://.godot/imported/psxdither.png-464bf7125862638689534717a01d59a2.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://shaders/GodotRetro - Ahopness/Other/Images/psxdither.png"
+dest_files=PackedStringArray("res://.godot/imported/psxdither.png-464bf7125862638689534717a01d59a2.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

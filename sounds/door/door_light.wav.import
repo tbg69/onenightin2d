@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://3ddxykiph8gj"
+path="res://.godot/imported/door_light.wav-3f4e3e887f4a9ed6145019247872e18a.sample"
+
+[deps]
+
+source_file="res://sounds/door/door_light.wav"
+dest_files=PackedStringArray("res://.godot/imported/door_light.wav-3f4e3e887f4a9ed6145019247872e18a.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

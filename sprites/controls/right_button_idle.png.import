@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bkb15so0k6g1v"
+path="res://.godot/imported/right_button_idle.png-31175c36bf02208762a43185515d344c.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/controls/right_button_idle.png"
+dest_files=PackedStringArray("res://.godot/imported/right_button_idle.png-31175c36bf02208762a43185515d344c.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

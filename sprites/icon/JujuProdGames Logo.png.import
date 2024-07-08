@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://78vn01utb0p6"
+path="res://.godot/imported/JujuProdGames Logo.png-5c4d3241aabe98ce7676ea652dfdb85a.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/icon/JujuProdGames Logo.png"
+dest_files=PackedStringArray("res://.godot/imported/JujuProdGames Logo.png-5c4d3241aabe98ce7676ea652dfdb85a.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

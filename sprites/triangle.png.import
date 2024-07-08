@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cmcmuov4aca2m"
+path="res://.godot/imported/triangle.png-bd3c9537dcbbb8d7ba48587c81e78c46.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/triangle.png"
+dest_files=PackedStringArray("res://.godot/imported/triangle.png-bd3c9537dcbbb8d7ba48587c81e78c46.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

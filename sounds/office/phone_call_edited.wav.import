@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b7trr841c48r2"
+path="res://.godot/imported/phone_call_edited.wav-827af72863e4a2899eb4244cb0d073ed.sample"
+
+[deps]
+
+source_file="res://sounds/office/phone_call_edited.wav"
+dest_files=PackedStringArray("res://.godot/imported/phone_call_edited.wav-827af72863e4a2899eb4244cb0d073ed.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

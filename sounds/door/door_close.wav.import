@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://7duhwpenrlun"
+path="res://.godot/imported/door_close.wav-6879d694a344b1c53242886ae0913ff5.sample"
+
+[deps]
+
+source_file="res://sounds/door/door_close.wav"
+dest_files=PackedStringArray("res://.godot/imported/door_close.wav-6879d694a344b1c53242886ae0913ff5.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

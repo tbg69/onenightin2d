@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ddwxbqilwvxyv"
+path="res://.godot/imported/paycheck.png-fbbefc27f988191f5ef83c4214cb635c.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/ui/paycheck.png"
+dest_files=PackedStringArray("res://.godot/imported/paycheck.png-fbbefc27f988191f5ef83c4214cb635c.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

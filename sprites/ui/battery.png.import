@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://4mb717pe7bls"
+path="res://.godot/imported/battery.png-bddf0a84a313114873ae308c3c634656.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/ui/battery.png"
+dest_files=PackedStringArray("res://.godot/imported/battery.png-bddf0a84a313114873ae308c3c634656.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

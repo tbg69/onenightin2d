@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://m4ahsdeb8hs4"
+path="res://.godot/imported/freddy.png-72952551b994c386665ff1b8a094f3ed.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/characters/animatronics/freddy.png"
+dest_files=PackedStringArray("res://.godot/imported/freddy.png-72952551b994c386665ff1b8a094f3ed.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://6lwa73vf87k6"
+path="res://.godot/imported/foxy_head.png-0950cdeb914cb3de4c513f6f4b5ca11d.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/characters/animatronics/foxy_head.png"
+dest_files=PackedStringArray("res://.godot/imported/foxy_head.png-0950cdeb914cb3de4c513f6f4b5ca11d.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

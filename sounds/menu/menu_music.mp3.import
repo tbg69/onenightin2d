@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cl1bpactm4fm7"
+path="res://.godot/imported/menu_music.mp3-e381cb4600f319a49663cd13c009ca07.mp3str"
+
+[deps]
+
+source_file="res://sounds/menu/menu_music.mp3"
+dest_files=PackedStringArray("res://.godot/imported/menu_music.mp3-e381cb4600f319a49663cd13c009ca07.mp3str")
+
+[params]
+
+dummy_value_ignore_me=0

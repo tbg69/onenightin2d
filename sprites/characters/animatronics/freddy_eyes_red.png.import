@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cphp58ib0826f"
+path="res://.godot/imported/freddy_eyes_red.png-b8ad05d11517a53d201dabeea524a130.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/characters/animatronics/freddy_eyes_red.png"
+dest_files=PackedStringArray("res://.godot/imported/freddy_eyes_red.png-b8ad05d11517a53d201dabeea524a130.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b4d3qo5rsv4ia"
+path="res://.godot/imported/cutscene_static.wav-bebb8ba1e79cf6e0f71f2ad0f083f057.sample"
+
+[deps]
+
+source_file="res://sounds/cutscenes/cutscene_static.wav"
+dest_files=PackedStringArray("res://.godot/imported/cutscene_static.wav-bebb8ba1e79cf6e0f71f2ad0f083f057.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

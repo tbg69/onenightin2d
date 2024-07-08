@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://devo25ub1mhse"
+path="res://.godot/imported/FNAF 2D Logo Bigger 512x512.png-0171c33d3f84617597584ad42cf159a0.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/icon/FNAF 2D Logo Bigger 512x512.png"
+dest_files=PackedStringArray("res://.godot/imported/FNAF 2D Logo Bigger 512x512.png-0171c33d3f84617597584ad42cf159a0.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

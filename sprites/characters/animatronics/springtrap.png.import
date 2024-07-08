@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://buotigqtscelc"
+path="res://.godot/imported/springtrap.png-2820decfa4ea99ce0cb1f8368fa7c5f0.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/characters/animatronics/springtrap.png"
+dest_files=PackedStringArray("res://.godot/imported/springtrap.png-2820decfa4ea99ce0cb1f8368fa7c5f0.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://5hjiy6sny686"
+path="res://.godot/imported/nose_honk.wav-878a2c4df4dfa10d151ff0965480b009.sample"
+
+[deps]
+
+source_file="res://sounds/nose_honk.wav"
+dest_files=PackedStringArray("res://.godot/imported/nose_honk.wav-878a2c4df4dfa10d151ff0965480b009.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

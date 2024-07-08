@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://yawqeupa1i8x"
+path="res://.godot/imported/hall_east.png-d0e7e878c711593e7a1fef3d05128dea.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/monitor/monitor_scenes/hall_east.png"
+dest_files=PackedStringArray("res://.godot/imported/hall_east.png-d0e7e878c711593e7a1fef3d05128dea.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

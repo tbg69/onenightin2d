@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://rrvn81se140h"
+path="res://.godot/imported/monitor_switch.wav-0af69685567b13f090f2d84cb7cefe79.sample"
+
+[deps]
+
+source_file="res://sounds/monitor/monitor_switch.wav"
+dest_files=PackedStringArray("res://.godot/imported/monitor_switch.wav-0af69685567b13f090f2d84cb7cefe79.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dmq2ckyixcre0"
+path="res://.godot/imported/poster_bonnie.png-7e60279d42956b4bce7c86ef66705f22.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/main_office/poster_bonnie.png"
+dest_files=PackedStringArray("res://.godot/imported/poster_bonnie.png-7e60279d42956b4bce7c86ef66705f22.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

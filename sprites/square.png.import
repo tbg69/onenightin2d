@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ds10607oithwm"
+path="res://.godot/imported/square.png-3f8c6615d8061237b70830027fd403c3.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/square.png"
+dest_files=PackedStringArray("res://.godot/imported/square.png-3f8c6615d8061237b70830027fd403c3.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

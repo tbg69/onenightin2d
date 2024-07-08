@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dr1kfesbw5pci"
+path="res://.godot/imported/animatronic_footstep.wav-2fe721813b720b115fea9308af1c8c83.sample"
+
+[deps]
+
+source_file="res://sounds/animatronics/animatronic_footstep.wav"
+dest_files=PackedStringArray("res://.godot/imported/animatronic_footstep.wav-2fe721813b720b115fea9308af1c8c83.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

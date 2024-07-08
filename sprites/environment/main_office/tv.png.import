@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://y6yqx1oqxrhd"
+path="res://.godot/imported/tv.png-ef62166564cfcfdda506c52d2997ffeb.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/main_office/tv.png"
+dest_files=PackedStringArray("res://.godot/imported/tv.png-ef62166564cfcfdda506c52d2997ffeb.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

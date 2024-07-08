@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dgl3cdxmw3dfd"
+path="res://.godot/imported/cutscene_lullabywaltz.wav-2b4609418edc6cdf61d4e169420fb6fd.sample"
+
+[deps]
+
+source_file="res://sounds/cutscenes/cutscene_lullabywaltz.wav"
+dest_files=PackedStringArray("res://.godot/imported/cutscene_lullabywaltz.wav-2b4609418edc6cdf61d4e169420fb6fd.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

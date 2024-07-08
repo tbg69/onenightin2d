@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c1xfbjntuypup"
+path="res://.godot/imported/crying_child.png-d42f2f7a0ed3ebab8ccf29141800c0b4.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/cutscenes/crying_child.png"
+dest_files=PackedStringArray("res://.godot/imported/crying_child.png-d42f2f7a0ed3ebab8ccf29141800c0b4.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

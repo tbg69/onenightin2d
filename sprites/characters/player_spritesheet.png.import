@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dgcs3ce0qfxe4"
+path="res://.godot/imported/player_spritesheet.png-59328920dc474d3f000d5159b1989e13.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/characters/player_spritesheet.png"
+dest_files=PackedStringArray("res://.godot/imported/player_spritesheet.png-59328920dc474d3f000d5159b1989e13.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

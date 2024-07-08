@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://caroegfhu8p6o"
+path="res://.godot/imported/circle_faded.png-543fa9ac10fdba0ed281e16aad286ab7.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/circle_faded.png"
+dest_files=PackedStringArray("res://.godot/imported/circle_faded.png-543fa9ac10fdba0ed281e16aad286ab7.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

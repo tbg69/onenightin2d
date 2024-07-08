@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d3507k0qppna0"
+path="res://.godot/imported/door_scare.wav-b1b2d8c1077a1569c2a2c2b5cad7f45b.sample"
+
+[deps]
+
+source_file="res://sounds/door/door_scare.wav"
+dest_files=PackedStringArray("res://.godot/imported/door_scare.wav-b1b2d8c1077a1569c2a2c2b5cad7f45b.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

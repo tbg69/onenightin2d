@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b37imhrina30l"
+path="res://.godot/imported/animatronic_music_box.wav-1f3e0c94b105476b0b0d2506e564300b.sample"
+
+[deps]
+
+source_file="res://sounds/animatronics/animatronic_music_box.wav"
+dest_files=PackedStringArray("res://.godot/imported/animatronic_music_box.wav-1f3e0c94b105476b0b0d2506e564300b.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

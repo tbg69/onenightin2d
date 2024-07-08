@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://25lyeii26ugb"
+path="res://.godot/imported/triangle_faded.png-ca72798b4c3fe2483d212a649dbdf0a5.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/triangle_faded.png"
+dest_files=PackedStringArray("res://.godot/imported/triangle_faded.png-ca72798b4c3fe2483d212a649dbdf0a5.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

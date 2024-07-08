@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b00yvpujsf3kv"
+path="res://.godot/imported/dining_room_2.png-a4dcfd344dc978c543d3d8fdafb79585.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/monitor/monitor_scenes/dining_room_2.png"
+dest_files=PackedStringArray("res://.godot/imported/dining_room_2.png-a4dcfd344dc978c543d3d8fdafb79585.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

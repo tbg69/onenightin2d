@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bbdf4g7l0qb1a"
+path="res://.godot/imported/animatronic_flicker_off.wav-8b54714ef22792158e8447905dfc3fc8.sample"
+
+[deps]
+
+source_file="res://sounds/animatronics/animatronic_flicker_off.wav"
+dest_files=PackedStringArray("res://.godot/imported/animatronic_flicker_off.wav-8b54714ef22792158e8447905dfc3fc8.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

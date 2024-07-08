@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bjy3ipwfd2ikh"
+path="res://.godot/imported/right_button_pressed.png-05c8969a6f7bfafaf8a899655626b733.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/controls/right_button_pressed.png"
+dest_files=PackedStringArray("res://.godot/imported/right_button_pressed.png-05c8969a6f7bfafaf8a899655626b733.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

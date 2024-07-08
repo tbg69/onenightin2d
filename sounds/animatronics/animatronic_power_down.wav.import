@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b7vtb1b8rxmwn"
+path="res://.godot/imported/animatronic_power_down.wav-360709df6e2dbf66cb8469bed93c90a1.sample"
+
+[deps]
+
+source_file="res://sounds/animatronics/animatronic_power_down.wav"
+dest_files=PackedStringArray("res://.godot/imported/animatronic_power_down.wav-360709df6e2dbf66cb8469bed93c90a1.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

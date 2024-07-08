@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cawnt80dviwug"
+path="res://.godot/imported/show_stage.png-1f8ff47849e6864e4e1f3008348967ce.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/monitor/monitor_scenes/show_stage.png"
+dest_files=PackedStringArray("res://.godot/imported/show_stage.png-1f8ff47849e6864e4e1f3008348967ce.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

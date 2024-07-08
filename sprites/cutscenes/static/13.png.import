@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://mqayc35mrtoh"
+path="res://.godot/imported/13.png-beb1bf2360c7af5c3e61204be56b50f8.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/cutscenes/static/13.png"
+dest_files=PackedStringArray("res://.godot/imported/13.png-beb1bf2360c7af5c3e61204be56b50f8.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

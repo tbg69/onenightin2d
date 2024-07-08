@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ootj662vh0d0"
+path="res://.godot/imported/monitor_close.wav-34e54cf4ed620b75c7f88e442465b1c3.sample"
+
+[deps]
+
+source_file="res://sounds/monitor/monitor_close.wav"
+dest_files=PackedStringArray("res://.godot/imported/monitor_close.wav-34e54cf4ed620b75c7f88e442465b1c3.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

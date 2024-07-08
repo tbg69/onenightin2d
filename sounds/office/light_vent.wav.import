@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://hvjkqldfkrjw"
+path="res://.godot/imported/light_vent.wav-23f8c06261d5cf43dc0b6493bc759b5e.sample"
+
+[deps]
+
+source_file="res://sounds/office/light_vent.wav"
+dest_files=PackedStringArray("res://.godot/imported/light_vent.wav-23f8c06261d5cf43dc0b6493bc759b5e.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

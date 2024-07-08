@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://gj1qxmaloo2r"
+path="res://.godot/imported/poster_celebrate.png-094991999f0bc199b92cfafccbb3254f.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/main_office/poster_celebrate.png"
+dest_files=PackedStringArray("res://.godot/imported/poster_celebrate.png-094991999f0bc199b92cfafccbb3254f.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

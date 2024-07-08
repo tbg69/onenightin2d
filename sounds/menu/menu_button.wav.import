@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b57mudrdi737w"
+path="res://.godot/imported/menu_button.wav-1a6d22b021bd9ff7e93e1a46e8826af2.sample"
+
+[deps]
+
+source_file="res://sounds/menu/menu_button.wav"
+dest_files=PackedStringArray("res://.godot/imported/menu_button.wav-1a6d22b021bd9ff7e93e1a46e8826af2.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

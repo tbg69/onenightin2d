@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://l22eh1rk1uyq"
+path="res://.godot/imported/grain.jpg-a9b8c287a1e54fbe4226f0492c7971ad.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://shaders/GodotRetro - Ahopness/Other/Images/grain.jpg"
+dest_files=PackedStringArray("res://.godot/imported/grain.jpg-a9b8c287a1e54fbe4226f0492c7971ad.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

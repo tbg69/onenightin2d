@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dd561y450030a"
+path="res://.godot/imported/pause_button_idle.png-539ff2038b9ef082232e1c96e67b8ada.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/ui/pause_button_idle.png"
+dest_files=PackedStringArray("res://.godot/imported/pause_button_idle.png-539ff2038b9ef082232e1c96e67b8ada.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

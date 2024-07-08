@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cod1y2qxgc6bx"
+path="res://.godot/imported/pause_button_pressed.png-af6281db135cabdeb1a931b92a714665.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/ui/pause_button_pressed.png"
+dest_files=PackedStringArray("res://.godot/imported/pause_button_pressed.png-af6281db135cabdeb1a931b92a714665.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

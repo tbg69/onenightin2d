@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dh8jew77lxpug"
+path="res://.godot/imported/foxy_placeholder.png-2faf45fffc9f2fe32f744e19b1b90183.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/characters/animatronics/placeholder/2d/foxy_placeholder.png"
+dest_files=PackedStringArray("res://.godot/imported/foxy_placeholder.png-2faf45fffc9f2fe32f744e19b1b90183.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

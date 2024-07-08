@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://8r1f38sgdwee"
+path="res://.godot/imported/player_footsteps_muffled.wav-3b7a5039ce45a7b4f7677aa06f9b00a4.sample"
+
+[deps]
+
+source_file="res://sounds/player/player_footsteps_muffled.wav"
+dest_files=PackedStringArray("res://.godot/imported/player_footsteps_muffled.wav-3b7a5039ce45a7b4f7677aa06f9b00a4.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

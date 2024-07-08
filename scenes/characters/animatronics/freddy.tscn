@@ -1,0 +1,46 @@
+[gd_scene load_steps=4 format=3]
+
+[ext_resource type="Script" path="res://scripts/characters/animatronics/animatronic_roaming.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://m4ahsdeb8hs4" path="res://sprites/characters/animatronics/freddy.png" id="2"]
+[ext_resource type="Script" path="res://scripts/characters/animatronics/animatronic_in_office.gd" id="3"]
+
+[node name="freddy" type="Node2D" node_paths=PackedStringArray("movement_timer", "animatronic_in_office", "pause_animatronic_timer", "pause_animatronic_timer_cooldown")]
+script = ExtResource("1")
+movement_timer = NodePath("freddy_timer")
+min_move_time = 2.75
+max_move_time = 3.25
+cam_path = [["show_stage", "supply_closet", "hall_west", "dining_room_1", "hall"], ["show_stage", "hall_east", "dining_room_2", "hall"]]
+animatronic_in_office = NodePath("freddy_in_office")
+pause_animatronic_timer = NodePath("freddy_timer_pause")
+pause_animatronic_timer_cooldown = NodePath("freddy_timer_pause_cooldown")
+animatronic_name = "freddy"
+ai_level_by_hour = {
+1: 2,
+2: 4,
+3: 6,
+4: 8,
+5: 10,
+12: 0
+}
+
+[node name="freddy_in_office" type="Sprite2D" parent="."]
+visible = false
+position = Vector2(640, 456)
+scale = Vector2(12, 12)
+texture = ExtResource("2")
+script = ExtResource("3")
+animatronic_name = "freddy"
+
+[node name="freddy_timer" type="Timer" parent="."]
+wait_time = 5.0
+autostart = true
+
+[node name="freddy_timer_pause" type="Timer" parent="."]
+wait_time = 3.0
+
+[node name="freddy_timer_pause_cooldown" type="Timer" parent="."]
+wait_time = 4.0
+
+[connection signal="timeout" from="freddy_timer" to="." method="movement_opportunity"]
+[connection signal="timeout" from="freddy_timer_pause" to="." method="pause_animatronic" binds= [false]]
+[connection signal="timeout" from="freddy_timer_pause_cooldown" to="." method="set_can_pause" binds= [true]]

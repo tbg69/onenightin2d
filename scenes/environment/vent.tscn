@@ -1,0 +1,62 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Texture2D" uid="uid://b4u2ijuldf5ys" path="res://sprites/environment/main_office/vent.png" id="1"]
+[ext_resource type="Script" path="res://sprites/environment/main_office/controlled_shock.gd" id="2"]
+[ext_resource type="Script" path="res://scripts/environment/interactable_button.gd" id="3"]
+
+[sub_resource type="CanvasTexture" id="1"]
+script = null
+
+[sub_resource type="StyleBoxTexture" id="2"]
+texture = SubResource("1")
+script = null
+
+[sub_resource type="RectangleShape2D" id="3"]
+size = Vector2(24, 24)
+script = null
+
+[node name="vent" type="Sprite2D"]
+position = Vector2(416, 448)
+scale = Vector2(2, 2)
+texture = ExtResource("1")
+script = ExtResource("2")
+
+[node name="vent_button" type="Button" parent="." node_paths=PackedStringArray("cooldown_timer")]
+anchors_preset = -1
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -12.0
+offset_top = 11.0
+offset_right = -20.0
+offset_bottom = 35.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.25, 1.25)
+pivot_offset = Vector2(12, 12)
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/normal = SubResource("2")
+script = ExtResource("3")
+cooldown_timer = NodePath("vent_cooldown")
+
+[node name="vent_area" type="Area2D" parent="vent_button" groups=[
+"interactable",
+]]
+
+[node name="interact_collider" type="CollisionShape2D" parent="vent_button/vent_area"]
+position = Vector2(12, 12)
+shape = SubResource("3")
+
+[node name="vent_cooldown" type="Timer" parent="vent_button"]
+one_shot = true
+
+[connection signal="button_disabled" from="." to="vent_button" method="set_interact_state_absolute" flags=18]
+[connection signal="button_disabled" from="." to="vent_button/vent_area" method="set_monitorable" flags=18]
+[connection signal="button_disabled" from="." to="vent_button/vent_area" method="set_monitoring" flags=18]
+[connection signal="button_enabled" from="." to="vent_button" method="set_interact_state_absolute" flags=18]
+[connection signal="button_enabled" from="." to="vent_button/vent_area" method="set_monitorable" flags=18]
+[connection signal="button_enabled" from="." to="vent_button/vent_area" method="set_monitoring" flags=18]
+[connection signal="button_down" from="vent_button" to="." method="shock" flags=18]
+[connection signal="button_down" from="vent_button" to="vent_button" method="button_pressed" flags=18]
+[connection signal="timeout" from="vent_button/vent_cooldown" to="vent_button" method="unfreeze_disabled_state" flags=18]

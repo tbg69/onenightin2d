@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ukd8wuinc6se"
+path="res://.godot/imported/shelf.png-ed6ef44bce143a205ad93d192cc08921.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/main_office/shelf.png"
+dest_files=PackedStringArray("res://.godot/imported/shelf.png-ed6ef44bce143a205ad93d192cc08921.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

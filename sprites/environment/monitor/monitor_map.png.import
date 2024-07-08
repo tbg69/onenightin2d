@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://i08yjr748wt6"
+path="res://.godot/imported/monitor_map.png-38d9e0390ceb6fae757e787d9e469951.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/monitor/monitor_map.png"
+dest_files=PackedStringArray("res://.godot/imported/monitor_map.png-38d9e0390ceb6fae757e787d9e469951.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

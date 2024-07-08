@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dtsog62kbgndl"
+path="res://.godot/imported/pirate_cove_4.png-d66ed76f38a141b640cc5c430f08f677.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/monitor/monitor_scenes/pirate_cove_4.png"
+dest_files=PackedStringArray("res://.godot/imported/pirate_cove_4.png-d66ed76f38a141b640cc5c430f08f677.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

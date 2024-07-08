@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cga7csxtslv51"
+path="res://.godot/imported/papers.png-ca9c3b39f83fb4f08d2753e2d34143f4.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/environment/main_office/papers.png"
+dest_files=PackedStringArray("res://.godot/imported/papers.png-ca9c3b39f83fb4f08d2753e2d34143f4.ctex")
+
+[params]
+
+dummy_value_ignore_me=0
